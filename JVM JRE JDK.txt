@@ -1,3 +1,0 @@
-java virtual machine: java.exe javac 실행하는 실행기
-java Runtime Environment: 동작할때 필요한 라이브러리 파일 라이브러리
-Java Development Kit JRE 에 추가로 개발에 필요한 자료 포함
