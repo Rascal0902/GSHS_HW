@@ -1,2 +1,2 @@
-# 2020-5sound
-2020 2학기 경기과학고등학교 sound 수행평가
+# 2020iamcoder
+2020 경기과학고등학교 iamcoder

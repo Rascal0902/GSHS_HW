@@ -1,0 +1,10 @@
+8
+1 A
+2 AB
+3 BA
+4 ABB
+5 BAB
+6 BC
+7 CA
+8 ABBA
+0 1 0 2 3 0 0 4 1 
