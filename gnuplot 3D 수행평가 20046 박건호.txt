@@ -1,0 +1,12 @@
+set xdata
+set ydata
+set zdata
+set parametric
+set urange [-100:100]
+set vrange [-100:100]
+set xrange [-75:75]
+set yrange [-75:75]
+set zrange [-30:30]
+set isosamples 30,30
+set hidden3d
+splot u*sin(v),u*cos(v),20*sin(u)

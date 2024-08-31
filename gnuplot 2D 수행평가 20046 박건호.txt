@@ -1,0 +1,10 @@
+set xdata
+set ydata
+set xrange [0:30]
+set yrange [-30:30]
+set xlabel "time"
+set title "LC vibration"
+set samples 1000
+Electric_charge(x)=10*cos(2*x)
+Electric_current(x)=20*sin(2*x)
+plot Electric_charge(x),Electric_current(x)
