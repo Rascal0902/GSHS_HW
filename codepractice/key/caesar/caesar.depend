@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619921001 source:c:\users\skyal\desktop\ps\key\caesar\main.cpp
+	<string.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<stdio.h>
+

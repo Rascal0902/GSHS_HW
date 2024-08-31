@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620001174 source:c:\users\skyal\desktop\ps\comp\8\problema\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

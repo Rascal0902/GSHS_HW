@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623668368 source:c:\users\skyal\desktop\ps\comp\testprac2\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<iostream>
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

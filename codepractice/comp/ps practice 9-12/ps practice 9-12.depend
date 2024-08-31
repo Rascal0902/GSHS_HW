@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1623984286 source:c:\users\skyal\desktop\ps\comp\ps practice 9-12\main.cpp
+	<iostream>
+	<iostream>
+	<queue>
+	<utility>
+	<stdio.h>
+	<iostream>
+	<memory.h>
+

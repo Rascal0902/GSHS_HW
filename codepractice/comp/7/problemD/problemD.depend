@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618464565 source:c:\users\skyal\desktop\save files\교과\정보\고2\컴프\7차 모의고사\problemd\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+

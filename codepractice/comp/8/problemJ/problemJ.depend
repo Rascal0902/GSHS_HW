@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620661977 source:c:\users\skyal\desktop\ps\comp\8\problemj\main.cpp
+	<iostream>
+	<cmath>
+	<memory.h>
+

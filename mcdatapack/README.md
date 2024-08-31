@@ -1,0 +1,2 @@
+# mcdatapack
+minecraft datapack tutorial

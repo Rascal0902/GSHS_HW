@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1618124570 source:c:\users\skyal\desktop\save files\교과\정보\고2\컴프\6차 모의고사\practice\main.cpp
+	<iostream>
+	<stack>
+	<iostream>
+	<stack>
+	<iostream>
+	<stack>
+	<utility>
+	<iostream>
+	<stack>
+	<utility>
+	<iostream>
+	<queue>
+	<utility>
+	<iostream>
+	<queue>
+	<utility>
+	<iostream>
+	<queue>
+	<utility>
+	<iostream>
+	<queue>
+	<utility>
+	<iostream>
+	<queue>
+	<utility>
+	<stdio.h>
+	<iostream>
+	<queue>
+	<utility>
+

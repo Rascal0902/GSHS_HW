@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1618645196 source:c:\users\skyal\desktop\save files\교과\정보\고2\컴프\7차 모의고사\problemf\main.cpp
+	<iostream>
+	<queue>
+	<utility>
+	<vector>
+	<memory.h>
+	<iostream>
+	<queue>
+	<vector>
+
+1621147329 source:c:\users\skyal\desktop\ps\comp\7\problemf\main.cpp
+	<iostream>
+	<queue>
+	<utility>
+	<vector>
+	<memory.h>
+	<queue>
+	<vector>
+	<stdio.h>
+	<iostream>
+	<vector>
+	<queue>
+

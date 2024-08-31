@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1623907749 source:c:\users\skyal\desktop\ps\comp\12\main.cpp
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+	<stack>
+	<string.h>
+	<algorithm>
+	<iostream>
+	<stack>
+	<string.h>
+	<algorithm>
+	<iostream>
+	<iostream>
+	<queue>
+	<utility>
+	<iostream>
+	<iostream>
+	<queue>
+	<utility>
+	<iostream>
+	<iostream>
+	<stdio.h>
+

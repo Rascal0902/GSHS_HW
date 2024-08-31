@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RS",
+        "CM"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:chiseled_red_sandstone"
+        },
+        "S": {
+            "item": "minecraft:stripped_birch_wood"
+        },
+        "C": {
+            "item": "cobblestone_slab"
+        },
+        "M": {
+            "item": "stripped_dark_oak_wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone",
+        "count": 3
+    }
+}

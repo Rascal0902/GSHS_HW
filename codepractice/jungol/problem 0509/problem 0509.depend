@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620542269 source:c:\users\skyal\desktop\ps\comp\problem 0509\main.cpp
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+	<cstdio>
+	<algorithm>
+

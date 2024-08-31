@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620006779 source:c:\users\skyal\desktop\ps\comp\8\problemg\main.cpp
+	<stdio.h>
+	<iostream>
+	<queue>
+	<utility>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620743538 source:c:\users\skyal\desktop\ps\study\study 1\main.cpp
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+
