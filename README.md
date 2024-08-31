@@ -1,2 +1,2 @@
-# GSHS_HW
-GSHS homework collection
+# 2020-1problem
+경기과학고등학교 1-1 문제 만들기
